@@ -3,7 +3,10 @@ Dlink 615/815 shell PoC
 
 Tested on D-Link Version A 1.3
 
-Believe this will work D-Link 615 as well.  Maybe more?!
+Works with:
+- DIR-615
+- DIR-645 https://vuldb.com/?id.7843 (will add this in later... probably)
+- DIR-815
 
 ## Example ##
 ```
