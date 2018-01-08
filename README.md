@@ -4,6 +4,9 @@ Dlink 615/815 shell PoC
 Tested on D-Link Version A 1.3
 
 Works with:
+- DIR-110
+- DIR-412
+- DIR-600
 - DIR-615
 - DIR-645 https://vuldb.com/?id.7843 (will add this in later... probably)
 - DIR-815
