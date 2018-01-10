@@ -1,5 +1,5 @@
-# dlink_815_shell_poc
-Dlink 615/815 shell PoC
+# dlink_shell_poc
+Dlink shell PoC
 
 Tested on D-Link Version A 1.3
 
@@ -13,7 +13,7 @@ Works with:
 
 ## Example ##
 ```
-root@kali:~# ./dlink_auth_rce.py -u http://10.0.0.1:8080
+root@kali:~# ./dlink_shell_poc.py -u http://10.0.0.1:8080
 +--------------------------------------------------------------------------------+
 | Welcome to D-Link Shell                                                        |
 +--------------------------------------------------------------------------------+
