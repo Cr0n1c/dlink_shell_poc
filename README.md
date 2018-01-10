@@ -1,7 +1,7 @@
 # dlink_shell_poc
 Dlink shell PoC
 
-Tested on D-Link Version A 1.3
+Tested on D-Link 815 Version A 1.3
 
 Works with:
 - DIR-110
