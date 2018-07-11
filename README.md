@@ -9,10 +9,10 @@ Works with:
 - DIR-600
 - DIR-610
 - DIR-615
-- DIR-645 https://vuldb.com/?id.7843 (will add this in later... probably)
+- DIR-645 https://vuldb.com/?id.7843 
 - DIR-815
 
-* Note: PoC Code doe not handle captas.
+*Note: PoC Code doe not handle captas.*
 
 ## Example ##
 ```
